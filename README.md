@@ -4,8 +4,8 @@
 
 This python script has two main purposes:
 
-  1st: Get your public IPv4 \n
-  2ns: Send your new public IPv4 as an email (using Gmail) in case that it has changed
+ *  1st: Get your public IPv4 
+ *  2ns: Send your new public IPv4 as an email (using Gmail) in case that it has changed
  
 For this implementation, we use the Gmail API which can be see in more detail <a href="https://developers.google.com/gmail/api/quickstart/python">here</a>
 
