@@ -31,5 +31,7 @@ Another file called ips.json will be automatically created the first time you ru
 
 I personally use this script in a Raspberry Pi running Raspbian, with a scheduled CRON every day.
 
-If you need any help with this script or want to ask some doubt I will be glad to help you in anything I could.
+## Support
+
+If you need any help with this script or want to ask some doubt I will be glad to help you in anything I could. You can contact me via <a href="https://twitter.com/Modulati0ns">Twitter</a>
 
